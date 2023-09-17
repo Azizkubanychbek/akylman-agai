@@ -83,7 +83,6 @@ def main(message):
         ]
     )
 
-    # Получаем ответ от OpenAI
     assistant_response = response.choices[0].message['content']
 
     # Преобразуем ответ системы в словарь и добавляем его в историю
