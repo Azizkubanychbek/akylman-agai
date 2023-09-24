@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "5+12"
+    },
+    {
+        "role": "assistant",
+        "content": "5 + 12 equals 17."
+    },
+    {
+        "role": "user",
+        "content": "Упрлжнение 21"
+    },
+    {
+        "role": "assistant",
+        "content": "Actually, 5 + 12 equals 17."
+    }
+]
