@@ -5,10 +5,10 @@ import json
 import sqlite3
 
 # Установите токен вашего бота в Telegram
-token = '6581002043:AAGLo83nSKyEvgSPZ0wIrAUJg3UmGV-gOOE'
+token = 'API telegram'
 
 # Установите ваш ключ API от OpenAI
-openai.api_key = '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'
+openai.api_key = 'Введите API openai'
 
 bot = telebot.TeleBot(token)
 
